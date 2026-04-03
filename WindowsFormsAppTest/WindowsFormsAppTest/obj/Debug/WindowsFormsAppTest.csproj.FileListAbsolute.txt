@@ -1,0 +1,14 @@
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe.config
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.pdb
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.AssemblyReference.cache
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Properties.Resources.resources
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.GenerateResource.cache
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.exe
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.pdb
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\Newtonsoft.Json.dll
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\Newtonsoft.Json.xml
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.FormLogin.resources
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.FormRegister.resources
+D:\C#_WinForm\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsF.76F17FC6.Up2Date
