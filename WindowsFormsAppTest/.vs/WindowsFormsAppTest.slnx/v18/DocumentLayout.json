@@ -3,46 +3,43 @@
   "WorkspaceRootPath": "D:\\C#_WinForm\\WindowsFormsAppTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsAppTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|d:\\c#_winform\\windowsformsapptest\\windowsformsapptest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|D:\\C#_WinForm\\WindowsFormsAppTest\\windowsformsapptest\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159CA56-AC94-4A91-B33E-A8580AC3C234}|WindowsFormsAppTest\\WindowsFormsAppTest.csproj|solutionrelative:windowsformsapptest\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsAppTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,11 +49,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FormRegister.cs [Design]",
               "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormRegister.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTest\\FormRegister.cs",
@@ -68,20 +65,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\UserService.cs",
-              "RelativeDocumentMoniker": "WindowsFormsAppTest\\UserService.cs",
-              "ToolTip": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\UserService.cs",
-              "RelativeToolTip": "WindowsFormsAppTest\\UserService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T03:52:54.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\User.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTest\\User.cs",
@@ -94,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTest\\Program.cs",
@@ -107,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormLogin.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTest\\FormLogin.cs",
@@ -119,7 +103,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\UserService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppTest\\UserService.cs",
+              "ToolTip": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\UserService.cs",
+              "RelativeToolTip": "WindowsFormsAppTest\\UserService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T03:52:54.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppTest\\FormLogin.cs",
+              "ToolTip": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormLogin.cs",
+              "RelativeToolTip": "WindowsFormsAppTest\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T02:28:20.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FormRegister.cs",
               "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormRegister.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTest\\FormRegister.cs",
@@ -127,12 +137,11 @@
               "RelativeToolTip": "WindowsFormsAppTest\\FormRegister.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T06:05:25.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T06:05:25.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FormLogin.Designer.cs",
               "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormLogin.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTest\\FormLogin.Designer.cs",
@@ -145,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FormRegister.Designer.cs",
               "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormRegister.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTest\\FormRegister.Designer.cs",
@@ -153,21 +162,7 @@
               "RelativeToolTip": "WindowsFormsAppTest\\FormRegister.Designer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAIA+wBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T06:05:43.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormLogin.cs",
-              "RelativeDocumentMoniker": "WindowsFormsAppTest\\FormLogin.cs",
-              "ToolTip": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\FormLogin.cs",
-              "RelativeToolTip": "WindowsFormsAppTest\\FormLogin.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAewDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T02:28:20.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T06:05:43.43Z"
             },
             {
               "$type": "Document",
@@ -178,8 +173,7 @@
               "ToolTip": "D:\\C#_WinForm\\WindowsFormsAppTest\\WindowsFormsAppTest\\WindowsFormsAppTest.csproj",
               "RelativeToolTip": "WindowsFormsAppTest\\WindowsFormsAppTest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-03T04:17:42.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T04:17:42.285Z"
             }
           ]
         }
