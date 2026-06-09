@@ -1,0 +1,4 @@
+#!/usr/bin/env pwsh
+$ErrorActionPreference = 'Stop'
+$env:ASPNETCORE_ENVIRONMENT = 'Development'
+dotnet run --project "TravelBlog.API/TravelBlog.API.csproj"
